@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Praveen",
+      "username": "C.Praveen",
+      "email": "praveen@gmail.com",
+      "role": "User",
+      "password": "User@1234",
+      "phone": "8767895345",
+      "balance": null,
+      "Aadhar": 750984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 1000,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-24T10:13:58.342Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-08T06:29:31.338Z",
+          "amount": "1"
+        }
+      ],
+      "currentBalance": null
+    },
+    {
+      "id": 2,
+      "name": "Suhan",
+      "username": "Suhan Khan",
+      "email": "suhan@gmail.com",
+      "phone": "877567897",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 700,
+      "Aadhar": 870984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 2000,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-25T16:40:22.621Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-25T16:40:40.983Z",
+          "amount": "600"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sruthi",
+      "username": "K.Sruthi",
+      "email": "sruthi@gmail.com",
+      "phone": "9476854322",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 500,
+      "Aadhar": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 500,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-23T10:05:14.204Z",
+          "amount": "100"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-23T10:06:44.108Z",
+          "amount": "200"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-23T10:14:25.935Z",
+          "amount": "-100"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-23T10:42:12.073Z",
+          "amount": "500"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chandini",
+      "username": "P.Chandini",
+      "email": "chandini@gmail.com",
+      "phone": "78845366256",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 0,
+      "Aadhar": 780984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 0,
+      "transaction": []
+    },
+    {
+      "id": 5,
+      "name": "Neeharika",
+      "username": "V.Neeharika",
+      "email": "neeharika@gmail.com",
+      "phone": "7989718550",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 0,
+      "Aadhar": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 0,
+      "transaction": []
+    },
+    {
+      "id": 6,
+      "name": "Sam",
+      "username": "S.Sam",
+      "email": "sam@gmail.com",
+      "phone": "7075392595",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 1000,
+      "Aadhar": 850984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 500,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-25T10:15:28.252Z",
+          "amount": "500"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-25T10:15:41.875Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-25T10:17:05.891Z",
+          "amount": "100"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Naima",
+      "username": "Shaik Naima",
+      "email": "naima@gmail.com",
+      "role": "Admin",
+      "password": "Admin@1234",
+      "phone": "7732012601",
+      "balance": 0,
+      "Aadhar": 450984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 0,
+      "transaction": []
+    },
+    {
+      "id": 8,
+      "name": "Vinay",
+      "username": "K.Vinay",
+      "email": "vinay@gmail.com",
+      "phone": "6330454532",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 2000,
+      "Aadhar": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 500,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-25T11:00:47.144Z",
+          "amount": "500"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-25T11:01:02.947Z",
+          "amount": "1000"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vishwas",
+      "username": "D.Vishwas",
+      "email": "vishwas@gmail.com",
+      "phone": "7676854364",
+      "role": "User",
+      "password": "User@1234",
+      "balance": null,
+      "Aadhar": 670984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalence": 0,
+      "transaction": [
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-08T07:21:43.359Z",
+          "amount": ""
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-08T07:21:53.429Z",
+          "amount": "0"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Farid",
+      "username": "S.Farid",
+      "email": "farid@gmail.com",
+      "phone": "7476854375",
+      "role": "User",
+      "Aadhar": 214867856794,
+      "balance": "0",
+      "password": "User@1234",
+      "currentBalence": 0,
+      "transaction": []
+    }
+  ]
+}
